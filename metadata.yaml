@@ -1,0 +1,33 @@
+_repo: La-vie-nomade-et-les-routes-d-Angleterre-au-14e-siecle_54089
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jusserand, J. J. (Jean Jules)
+    aliases:
+    - Jusserand, Jean Adrien Antoine Jules
+    - Jusserand, Jean Jules
+    birthdate: 1855
+    deathdate: 1932
+    gutenberg_agent_id: '25062'
+    url: http://www.gutenberg.org/2009/agents/25062
+    wikipedia: http://en.wikipedia.org/wiki/Jean_Jules_Jusserand
+description: ''
+gutenberg_bookshelf:
+- FR Peuples et Sociétés
+- FR Histoire
+gutenberg_issued: '2017-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54089'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nomads'
+- !lcsh 'Great Britain -- History -- Medieval period, 1066-1485'
+- !lcc 'DA'
+- !lcsh 'Roads -- England'
+- GITenberg
+title: La vie nomade et les routes d'Angleterre au 14e siècle
+url: http://www.gutenberg.org/ebooks/54089
